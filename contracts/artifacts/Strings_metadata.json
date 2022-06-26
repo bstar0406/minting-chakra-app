@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.6+commit.11564f7e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "String operations.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"NFT.sol": "Strings"
+		},
+		"evmVersion": "berlin",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"NFT.sol": {
+			"keccak256": "0x3eaaaefef90385e7207aed1c696280e0f8197a3257abaa511e87763516d4c23f",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://e5c38a78a42df4e1916ac60a4d59f124a9d9db79dadc63a788e163a44f0dc0e4",
+				"dweb:/ipfs/QmU2FHbeaKJgZJtJfGeEHnfwqXWSiVpNS5ZajL5o5wpzpb"
+			]
+		}
+	},
+	"version": 1
+}
